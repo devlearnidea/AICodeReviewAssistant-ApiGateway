@@ -1,0 +1,15 @@
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/AiCodeReviewAssistantApiGatewayApplication.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/config/MicroRestService.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/config/SecurityConfig.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/dto/TenantContextDTO.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/exception/AccessDeniedException.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/exception/CustomException.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/exception/GlobalExceptionHandler.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/exception/RetryableResponseException.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/filter/CustomWebFilter.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/response/ApiResponse.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/utils/Constant.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/utils/ConstantProperties.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/utils/HttpUtilDTO.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/utils/HttpUtils.java
+/Users/admin/LEARNING/GIT_WEBHOOK/AICodeReviewAssistant-ApiGateway/src/main/java/com/devlearnidea/AICodeReviewAssistant_ApiGateway/utils/StatusCode.java
